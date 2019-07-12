@@ -1,0 +1,1 @@
+# openshift-ansible-with-hosts-example
